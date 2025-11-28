@@ -1,0 +1,5 @@
+{
+  "name": "Timer m8",
+  "description": "A world-class precision timer application featuring Stopwatch, Pomodoro, and AI-powered natural language timer configuration using Gemini.",
+  "requestFramePermissions": []
+}
